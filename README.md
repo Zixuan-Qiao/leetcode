@@ -18,7 +18,7 @@ This repository contains leetcode solutions and a summary on pitfalls and techni
 14.	Strlen() does not include ‘\0’
 
 ## Techniques
-1.	Two pointers (Container with Most Water, Longest Substring Without Repeating, Two Sum, Three Sum, Remove Nth Node from End of List, Remove Duplicates from Sorted Array, Median of Two Sorted Arrays, Trapping Rain Water)
+1.	Two pointers (Container with Most Water, Longest Substring Without Repeating, Two Sum, Three Sum, Remove Nth Node from End of List, Remove Duplicates from Sorted Array, Median of Two Sorted Arrays, Trapping Rain Water, Minimum Window Substring)
 2.	Manacher algorithm (Longest Palindromic Substring)
 3.	Ascii to position array (Longest Substring Without Repeating)
 4.	Strlen (Longest Substring Without Repeating, Similar String Groups, Reverse Words in a String)
@@ -48,7 +48,10 @@ This repository contains leetcode solutions and a summary on pitfalls and techni
 28.	Sort the given sequence if needed (Merge Intervals)
 29.	Tabulation (Unique Paths, Climbing Stairs)
 30.	Binary search (Sqrt x)
-
+31.	Store information in-place (Set Matrix Zeroes)
+32.	Three-way partition algorithm (Sort Colors)
+33.	Sliding window (Minimum Window Substring)
+    
 
 ## Language
 C/C++, Python
