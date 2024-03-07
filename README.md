@@ -36,11 +36,11 @@ This repository contains leetcode solutions and a summary on pitfalls and techni
 16.	Swap sorting based on index (First Missing Positive)
 17.	Rotate matrix through flipping and transpose (Rotate Image)
 18.	Handle near-limit range with divide and conquer (Pow(x, n))
-19.	Traverse the sequence in reverse order (Reverse Words in a String)
+19.	Traverse the sequence in reverse order (Reverse Words in a String, Merge Sorted Array)
 20.	Record the position of the end of the last group (Reverse Nodes in k-Group)
 21.	Create a new list head to perform in-place operation (Merge k Sorted Lists)
 22.	Dynamic programming (Trapping Rain Water, Unique Paths, Climbing Stairs)
-23.	Back tracking, record used items in array (Permutations)
+23.	Back tracking, record used items (Permutations, Word Search)
 24.	Push first item into result set with no condition as a start point (Group Anagrams)
 25.	Kadane's algorithm (Maximum Subarray)
 26.	Determine the traversal boundaries (Spiral Matrix)
@@ -51,6 +51,7 @@ This repository contains leetcode solutions and a summary on pitfalls and techni
 31.	Store information in-place (Set Matrix Zeroes)
 32.	Three-way partition algorithm (Sort Colors)
 33.	Sliding window (Minimum Window Substring)
+34.	Include exclude (Subsets)
     
 
 ## Language
